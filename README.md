@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ,C,C++,python
 - 💞️ I’m looking to collaborate on Nothing right now.
 - 📫 How to reach me aryan24207@gmail.com
-- 😄 Pronouns:krrish
 - ⚡ Fun fact: i'm introvert....🥲
 
 <p>---Hello, my name is Aryan Yadav, and I am currently pursuing my Bachelor of Computer Applications (BCA) in my first year at MERI College. I have a strong passion for web development, particularly in frontend technologies.
